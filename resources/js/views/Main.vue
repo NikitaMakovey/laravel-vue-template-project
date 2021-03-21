@@ -1,6 +1,6 @@
 <template>
   <div style="display: flex">
-    <h2 style="align-self: center; display: flex; width: 100%">{{ `Hello, ${ new Date().getFullYear() }!` }}</h2>
+    <h2 style="text-align: center; width: 100%">{{ `Hello, ${ new Date().getFullYear() }!` }}</h2>
   </div>
 </template>
 
